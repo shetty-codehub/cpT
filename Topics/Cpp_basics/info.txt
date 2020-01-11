@@ -1,5 +1,0 @@
-Here in this section we are going to discuss the topics Basics of C++ programming.
-Topic code : 01 (refer index file)
-	a)Keywords used in C++ : assigned to kiran
-	b)Operators used in C++ :assigned to kiran
-	c)Operator hierarchy in C++ :assigned to kiran
