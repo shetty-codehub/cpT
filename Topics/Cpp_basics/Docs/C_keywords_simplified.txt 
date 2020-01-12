@@ -1,0 +1,9 @@
+Keywords 														Newer Keywords
+asm 	  continue 	 float 	  new 	      signed 	 try 	     using
+auto 	  default 	 for 	  operator 	  sizeof 	 typedef 	 namespace
+break 	  delete 	 friend   private 	  static 	 union 	     bal
+case 	  do 	     goto 	  protected   struct 	 unsigned 	 static_cast
+catch 	  double 	 if 	  public 	  switch 	 virtual 	 const_cast
+char 	  else 	     inline   register 	  template 	 void 	     dynamic_cast
+class 	  enum 	     int 	  return 	  this 		 volatile 	 true
+const 	  extern 	 long 	  short 	  throw 	 while 	     false 
