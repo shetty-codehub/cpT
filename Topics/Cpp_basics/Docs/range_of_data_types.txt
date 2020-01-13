@@ -1,0 +1,14 @@
+Type  Name       Memory Used     size Range         precision
+
+short 			 2 bytes       -32,768 to 32,767     (not applicable)
+(also called
+short int)
+
+int 			 4 bytes		-2,147,483,648 to	
+								2,147,483,647
+								
+float			4 bytes         10-38 to 10+38			7 digits
+
+double			8 bytes		    10-308 to 10+308        15 digits
+
+long double		10 bytes        10-4932 to 104932       19 digits
