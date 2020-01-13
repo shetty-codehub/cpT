@@ -7,3 +7,4 @@ catch 	  double 	 if 	  public 	  switch 	 virtual 	 const_cast
 char 	  else 	     inline   register 	  template 	 void 	     dynamic_cast
 class 	  enum 	     int 	  return 	  this 		 volatile 	 true
 const 	  extern 	 long 	  short 	  throw 	 while 	     false 
+boolean
